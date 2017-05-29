@@ -33,11 +33,11 @@ ul.socialicons li a:hover {
     right: 0px;
     height: 103% !important;
         top: -6px !important;
-        width: 300px !important;
+        width: 250px !important;
 }
 @media screen and (min-width: 600px) {
 .left {
-      padding-left: 50px;
+      padding-left: 20px;
     
     margin-left: initial;
 }
